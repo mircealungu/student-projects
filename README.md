@@ -5,5 +5,5 @@ This repository contains information for student projects. Most of the projects 
 
 ## The Project List
 
-The projects are listed as issues in this repository. Feel free to browse them, and contact me about the ones that you find interesting. Feel free to comment on the issues if you have questions about them. 
+The projects are listed as [issues in this repository](./issues). Feel free to browse them, and [contact me](https://mircealungu.github.io/#contact) if you find one that you think you might want to work on. Also, feel free to comment on the issues if you have questions. 
 
