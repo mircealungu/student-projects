@@ -2,7 +2,7 @@
 
 1. Personalized Difficulty Recommender -- Zeeguu has a personalized difficulty estimator, but it is quite limited. Can you design a better one? 
 
-2. Tinder-like interface for article browsers and vocabulary. This is a mainly a front-end development project. Given the limited scope 
+2. Framework for multi-platform generation of tinder-like user interfaces. Case study for article browsers. This is a mainly a front-end development project. Given the limited scope 
 
 3. Progressive web apps survey + case study on the zeeguu website.
 
