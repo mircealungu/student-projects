@@ -2,8 +2,6 @@
 Remove Useless Words
 ===
 
-[Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
-
 Compare the following two sentences: 
 
  > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al. in which he presents the dependency term.  
@@ -13,6 +11,7 @@ Compare the following two sentences:
 They say the same thing: one in a very convoluted way, the other in a straightforward way. 
 Which is better? Which is more clear? Which one is more powerful? 
 
+More: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
 
 Single Responsibility Principle Applied to Paragraphs
 ===
