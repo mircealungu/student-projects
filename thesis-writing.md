@@ -66,14 +66,14 @@ Use Active Voice
 Text is more powerful and more clear if you do. Read the [Strunk and White section about this](https://en.wikisource.org/wiki/The_Elements_of_Style/Principles#11._Use_the_active_voice.).
 
 
-Apply the Single Responsibility Principle to Paragraphs
+Apply the Single Responsibility Principle to Units of Text
 ===
 
 Just as in software we like our modules to have a single responsibility, so should our writing units.
-- A paragraph should be about one idea. 
+- A paragraph should be about one topic. 
 - A Section should be a series of related paragraphs.
 
-Before submitting your thesis, re-read it and make sure that your paragraphs 
+**How to Ensure This**: Before submitting your thesis, re-read it and make sure that your paragraphs 
 are cohesive. If they are not, then split them, until they are cohesive. 
 
 More: [here](http://www.academicpeds.org/espauthoring/page_11.htm)
