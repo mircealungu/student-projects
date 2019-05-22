@@ -23,9 +23,9 @@ sentence wondering what did you mean. And you want my feedback on the
 important, high-level ideas in your thesis, not on your English. 
 
 **How to Ensure This**: Have a native English speaker review your text. If you can't 
-do that, at least run your text through an automatd spellchecker before submitting 
+do that, at least run your text through an automated spellchecker before submitting 
 your draft. Use at least the following two spellcheckers: 
-1. Grammarly (the web application, not the chorme extension). 
+1. Grammarly (the web application, not the Chrome extension). 
 Create a free account on [app.grammarly.com](app.grammarly.com).
 You don't have to get the paid version: if you address the observations in the free 
 version, your text should already be much more readable. 
@@ -59,7 +59,7 @@ Compare the following two sentences:
 They say the same thing: one in a very convoluted way, the other in a straightforward way. 
 Which is better? Which is more clear? Which one is more powerful? 
 
-Read More About This: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) is an amazing little book. You can find also an online verison [at wikisource](https://en.wikisource.org/wiki/The_Elements_of_Style) 
+Read More About This: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) is an amazing little book. You can find also an online version [at wikisource](https://en.wikisource.org/wiki/The_Elements_of_Style) 
 
 Use Active Voice
 ===
