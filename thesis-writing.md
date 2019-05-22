@@ -1,12 +1,4 @@
 
-Do say that something is "interesting". 
-===
-Using it simply means that you didn't have the time to think clearly about what you say. 
-See the following examples: 
-
-  > In the last two articles, there were interesting ways to extract various data from the analyzed systems.
-
-  > In the case of monoliths, the number of configuration files that are required changes exten- sively, it proves an interesting study point. 
 
 
 A thesis contains facts, not opinions.
@@ -19,3 +11,14 @@ Scientific writing is about facts not opinions. It is about data, not about your
 Maybe for you it's not **too many obstacles** but for somebody else they are. Always talk about facts in a thesis rather than opinions. In this case, to make this concrete you would have to be precise: how many obstacles? which are they? Or simply, drop the discussion about obstacles if you can't say anything about it at this point. 
 
 
+
+Do say that something is "interesting". 
+===
+Sayting that something is *interesting* simply means that you were too lazy to think clearly about what you wanted to say. 
+See the following examples: 
+
+  > In the last two articles, there were interesting ways to extract various data from the analyzed systems.
+
+  > In the case of monoliths, the number of configuration files that are required changes extensively, it proves an interesting study point. 
+
+Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
