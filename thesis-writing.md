@@ -21,20 +21,7 @@ important idea that you're trying to convey if I'm stopping at every
 sentence wondering what did you mean. And you want my feedback on the
 important, high-level ideas in your thesis, not on your English. 
 
-
-Keep sentences short
-===
-
-You're not Stephen King. Keep your sentences simple if you
-want to make the text understandable.
-
-**Please**: Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
-to ensure that you keep your sentences short. If they are too long, 
-refactor them by removing useless words, refactoring passive voice into 
-active voice, and ultimately splitting them in smaller sentences. 
-
-
-**Please**: Have a native English speaker review your text. If you can't 
+**How to Ensure This**: Have a native English speaker review your text. If you can't 
 do that, at least run your text through a grammarly and the Word and spellchecker 
 before submitting your first draft. 
 1. For Grammarly create a free account on [app.grammarly.com](app.grammarly.com).
@@ -43,6 +30,20 @@ paid version: if you address the observations in the free version, your text
 should already be much more readable. 
 2. Word will catch some problems that Grammarly will not, so please paste your 
 text in it too and take care of the highlighted problems. 
+
+
+Keep sentences short
+===
+
+You're not Stephen King. Keep your sentences simple if you
+want to make the text understandable.
+
+**How to Ensure This**: Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
+to ensure that you keep your sentences short. If they are too long, 
+refactor them by removing useless words, refactoring passive voice into 
+active voice, and ultimately splitting them in smaller sentences. 
+
+
 
 
 Remove Useless Words
