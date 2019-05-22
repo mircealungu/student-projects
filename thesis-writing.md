@@ -12,13 +12,14 @@ Maybe for you it's not **too many obstacles** but for somebody else they are. Al
 
 
 
-Do say that something is "interesting". 
+The word "interesting" should never appear in a thesis
 ===
-Sayting that something is *interesting* simply means that you were too lazy to think clearly about what you wanted to say. 
+Saying that something is *interesting* simply means that you were too lazy to think clearly about what you wanted to say. 
 See the following examples: 
 
-  > In the last two articles, there were interesting ways to extract various data from the analyzed systems.
+  > In the last two articles, there were **interesting** ways to extract various data from the analyzed systems.
 
-  > In the case of monoliths, the number of configuration files that are required changes extensively, it proves an interesting study point. 
+  > In the case of monoliths, the number of configuration files that are required changes extensively, it proves an **interesting** study point. 
 
-Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
+It might be interesting for you but not for me. Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
+
