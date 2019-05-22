@@ -11,7 +11,12 @@ Compare the following two sentences:
 They say the same thing: one in a very convoluted way, the other in a straightforward way. 
 Which is better? Which is more clear? Which one is more powerful? 
 
-More: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
+Read More About This: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) is an amazing little book. You can find also an online verison [at wikisource](https://en.wikisource.org/wiki/The_Elements_of_Style) 
+
+Use Active Voice
+===
+
+It makes your writing [more powerful](https://en.wikisource.org/wiki/The_Elements_of_Style/Principles#11._Use_the_active_voice.).
 
 Single Responsibility Principle Applied to Paragraphs
 ===
