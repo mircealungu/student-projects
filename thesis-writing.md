@@ -79,7 +79,8 @@ E.g.
 
 Thus, before submitting your draft and thesis, run your text through 
 a grammar and spellchecker. Create a free account on [app.grammarly.com](app.grammarly.com) 
-and paste your text in it. Use the web application, not the chorme extension.
+and paste your text in it. Use the web application, not the chorme extension. 
+
 
 
 
