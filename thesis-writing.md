@@ -67,15 +67,19 @@ Proofread your text
 ===
 
 I am not your English teacher. I will stop reading a thesis that has too 
-many spelling errors. 
+many spelling and grammar errors. 
 
 Everybody makes mistakes, and in fifty pages, it is normal that mistakes 
-will sneak in. However, you have no excuse for stupid spelling errors that
-are so simple that could have been caught by Word. Paste your text in Word or 
-some other spellchecker and make sure that 
+will sneak in. However, you have no excuse for spelling errors that
+are so simple that could have been caught by an automatic spellchecker. 
+E.g.
 
 > __This aspects__ affects not only large projects but also small ones.
 
+
+Thus, before submitting your draft and thesis, run your text through 
+a grammar and spellchecker. Create a free account on [app.grammarly.com](app.grammarly.com) 
+and paste your text in it. Use the web application, not the chorme extension.
 
 
 
