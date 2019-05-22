@@ -57,7 +57,7 @@ Keep sentences short
 You're not Stephen King. Keep your sentences simple if you
 want to make the text understandable.
 
-Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
+**Please**: Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
 to ensure that you keep your sentences short. If they are too long, 
 refactor them by removing useless words, refactoring passive voice into 
 active voice, and ultimately splitting them in smaller sentences. 
@@ -77,9 +77,13 @@ E.g.
 > __This aspects__ affects not only large projects but also small ones.
 
 
-Thus, before submitting your draft and thesis, run your text through 
-a grammar and spellchecker. Create a free account on [app.grammarly.com](app.grammarly.com) 
-and paste your text in it. Use the web application, not the chorme extension. 
+
+**Please**: Have a native English speaker review your text. If you can't 
+do that, at least run your text through a grammar and spellchecker before submitting 
+your first draft. Create a free account on [app.grammarly.com](app.grammarly.com).
+Use the web application, not the chorme extension. You don't have to get the 
+paid version: if you address the observations in the free version, your text
+should already be much more readable. 
 
 
 
