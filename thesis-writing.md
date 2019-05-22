@@ -23,13 +23,13 @@ sentence wondering what did you mean. And you want my feedback on the
 important, high-level ideas in your thesis, not on your English. 
 
 **How to Ensure This**: Have a native English speaker review your text. If you can't 
-do that, at least run your text through a grammarly and the Word and spellchecker 
-before submitting your first draft. 
-1. For Grammarly create a free account on [app.grammarly.com](app.grammarly.com).
-Use the web application, not the chorme extension. You don't have to get the 
-paid version: if you address the observations in the free version, your text
-should already be much more readable. 
-2. Word will catch some problems that Grammarly will not, so please paste your 
+do that, at least run your text through an automatd spellchecker before submitting 
+your draft. Use at least the following two spellcheckers: 
+1. Grammarly (the web application, not the chorme extension). 
+Create a free account on [app.grammarly.com](app.grammarly.com).
+You don't have to get the paid version: if you address the observations in the free 
+version, your text should already be much more readable. 
+2. Word. It will catch some problems that Grammarly will not, so please paste your 
 text in it too and take care of the highlighted problems. 
 
 
