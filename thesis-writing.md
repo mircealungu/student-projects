@@ -17,6 +17,17 @@ E.g.
 > __This aspects__ affects not only large projects but also small ones.
 
 
+Keep sentences short
+===
+
+You're not Stephen King. Keep your sentences simple if you
+want to make the text understandable.
+
+**Please**: Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
+to ensure that you keep your sentences short. If they are too long, 
+refactor them by removing useless words, refactoring passive voice into 
+active voice, and ultimately splitting them in smaller sentences. 
+
 
 **Please**: Have a native English speaker review your text. If you can't 
 do that, at least run your text through a grammarly and the Word and spellchecker 
@@ -81,16 +92,6 @@ See the following examples:
 It might be interesting for you but not for me. Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
 
 
-Keep sentences short
-===
-
-You're not Stephen King. Keep your sentences simple if you
-want to make the text understandable.
-
-**Please**: Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
-to ensure that you keep your sentences short. If they are too long, 
-refactor them by removing useless words, refactoring passive voice into 
-active voice, and ultimately splitting them in smaller sentences. 
 
 
 
