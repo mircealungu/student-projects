@@ -28,7 +28,7 @@ More: [here](http://www.academicpeds.org/espauthoring/page_11.htm)
 
 
 
-A thesis contains facts, not opinions.
+A thesis contains facts, not opinions
 ====
 
 Scientific writing is about facts not opinions. It is about data, not about your own viewpoints. There is a single place in your thesis where you are invited to write your opinions, and that is the Discussion or Conclusion section. Until then, stick to the facts. 
@@ -50,5 +50,15 @@ See the following examples:
 
 It might be interesting for you but not for me. Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
 
+
+Keep sentences short
+===
+
+You're not Stephen King. Keep your sentences simple if you
+want to make the text understandable.
+
+Pass your text through the [Hemingway editor](http://www.hemingwayapp.com/)
+to ensure that you keep your sentences short. If they are too long, 
+refactor them 
 
 
