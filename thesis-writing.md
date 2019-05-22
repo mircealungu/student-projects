@@ -3,7 +3,7 @@ any written work to me. Practice these rules on your thesis. Being a good
 writer is an important skill in any context you might end up in.  
 
 
-Proofread your text
+Don't Submit a Text with Grammatical Mistakes and Typos
 ===
 
 I am not your English teacher. I will stop reading a thesis that has too 
@@ -32,7 +32,7 @@ should already be much more readable.
 text in it too and take care of the highlighted problems. 
 
 
-Keep sentences short
+Keep Sentences Short
 ===
 
 You're not Stephen King. Keep your sentences simple if you
@@ -60,7 +60,8 @@ Which is better? Which is more clear? Which one is more powerful?
 
 Read More About This: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) is an amazing little book. You can find also an online verison [at wikisource](https://en.wikisource.org/wiki/The_Elements_of_Style) 
 
-Single Responsibility Principle Applied to Paragraphs
+
+Apply the Single Responsibility Principle to Paragraphs
 ===
 
 Just as in software we like our modules to have a single responsibility, so should our writing units.
@@ -75,7 +76,7 @@ More: [here](http://www.academicpeds.org/espauthoring/page_11.htm)
 
 
 
-A thesis contains facts, not opinions
+Write Facts Not Opinions
 ====
 
 Scientific writing is about facts not opinions. It is about data, not about your own viewpoints. There is a single place in your thesis where you are invited to write your opinions, and that is the Discussion or Conclusion section. Until then, stick to the facts. 
@@ -86,7 +87,7 @@ Maybe for you it's not **too many obstacles** but for somebody else they are. Al
 
 
 
-The word "interesting" should never appear in a thesis
+The Word "Interesting" Should Never Appear In a Thesis
 ===
 Saying that something is *interesting* simply means that you were too lazy to think clearly about what you wanted to say. 
 See the following examples: 
