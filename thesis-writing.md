@@ -100,7 +100,7 @@ Saying that something is *interesting* simply means that you were too lazy to th
 
   > In the case of monoliths, the number of configuration files that are required changes extensively, it proves an **interesting** study point. 
 
-Clearly list the facts that you thought were interesting, or just remove such opinions from the text.
+List the facts that you thought were interesting, or remove such opinions from the text.
 
 
 
