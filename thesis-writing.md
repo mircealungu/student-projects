@@ -1,6 +1,7 @@
-The following are rules that I would like you to respect before submitting 
-any written work to me. Practice these rules on your thesis. Being a good
-writer is an important skill in any context you might end up in.  
+The following are a few rules that I would like you to respect before submitting 
+any written work to me. Practice these rules on your thesis and any in other technical
+report. Being a good writer is an important skill in any context you might end up in,
+not only in the university. 
 
 
 Don't Submit a Text with Grammatical Mistakes and Typos
