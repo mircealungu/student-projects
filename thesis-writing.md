@@ -27,7 +27,7 @@ It might be interesting for you but not for me. Ultimately that something is int
 Remove Useless Words
 ===
 
-[Strunk and White](http://www.jlakes.org/ch/web/The-elements-of-style.pdf) are your friends. 
+[Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
 
 Compare the following two sentences: 
 
