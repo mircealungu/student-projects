@@ -79,11 +79,15 @@ E.g.
 
 
 **Please**: Have a native English speaker review your text. If you can't 
-do that, at least run your text through a grammar and spellchecker before submitting 
-your first draft. Create a free account on [app.grammarly.com](app.grammarly.com).
+do that, at least run your text through a grammarly and the Word and spellchecker 
+before submitting your first draft. 
+1. For Grammarly create a free account on [app.grammarly.com](app.grammarly.com).
 Use the web application, not the chorme extension. You don't have to get the 
 paid version: if you address the observations in the free version, your text
 should already be much more readable. 
+2. Since none of these tools is perfect, Word will catch some problems that 
+Grammarly will not, so pass your text also through word. 
+
 
 
 
