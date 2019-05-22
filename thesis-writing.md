@@ -31,7 +31,7 @@ Remove Useless Words
 
 Compare the following two sentences: 
 
- > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al...
+ > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al. in which he presents the dependency term.  
  
  > Cox et al. argues that software dependencies can be represented as a graph. 
  
