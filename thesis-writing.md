@@ -63,3 +63,20 @@ refactor them by removing useless words, refactoring passive voice into
 active voice, and ultimately splitting them in smaller sentences. 
 
 
+Proofread your text
+===
+
+I am not your English teacher. I will stop reading a thesis that has too 
+many spelling errors. 
+
+Everybody makes mistakes, and in fifty pages, it is normal that mistakes 
+will sneak in. However, you have no excuse for stupid spelling errors that
+are so simple that could have been caught by Word. Paste your text in Word or 
+some other spellchecker and make sure that 
+
+> __This aspects__ affects not only large projects but also small ones.
+
+
+
+
+
