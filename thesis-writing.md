@@ -23,3 +23,18 @@ See the following examples:
 
 It might be interesting for you but not for me. Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
 
+
+Remove Useless Words
+===
+
+Strunk and White are your friends. 
+
+Compare the following two sentences: 
+
+ > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al...
+ 
+ > Cox et al. argues that software dependencies can be represented as a graph. 
+ 
+They say the same thing: one in a very convoluted way, the other in a straightforward way. 
+Which is better? Which is more clear? Which one is more powerful? 
+
