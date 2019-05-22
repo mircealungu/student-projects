@@ -16,6 +16,11 @@ E.g.
 
 > __This aspects__ affects not only large projects but also small ones.
 
+Did you mean "this aspect" or "these aspects"? I can't focus on the 
+important idea that you're trying to convey if I'm stopping at every
+sentence wondering what did you mean. And you want my feedback on the
+important, high-level ideas in your thesis, not on your English. 
+
 
 Keep sentences short
 ===
