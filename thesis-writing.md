@@ -1,4 +1,32 @@
 
+Remove Useless Words
+===
+
+[Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
+
+Compare the following two sentences: 
+
+ > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al. in which he presents the dependency term.  
+ 
+ > Cox et al. argues that software dependencies can be represented as a graph. 
+ 
+They say the same thing: one in a very convoluted way, the other in a straightforward way. 
+Which is better? Which is more clear? Which one is more powerful? 
+
+
+Single Responsibility Principle Applied to Paragraphs
+===
+
+Just as in software we like our modules to have a single responsibility, so should our writing units.
+- A paragraph should be about one idea. 
+- A Section should be a series of related paragraphs.
+
+Before submitting your thesis, re-read it and make sure that your paragraphs 
+are cohesive. If they are not, then split them, until they are cohesive. 
+
+More: [here](http://www.academicpeds.org/espauthoring/page_11.htm)
+
+
 
 
 A thesis contains facts, not opinions.
@@ -24,17 +52,4 @@ See the following examples:
 It might be interesting for you but not for me. Ultimately that something is interesting, it's your opinion. Thus, either think deep about what are the facts that you thought were interesting, and list them. Or just drop this opinion sentence alltogether.
 
 
-Remove Useless Words
-===
-
-[Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) are your friends. 
-
-Compare the following two sentences: 
-
- > Due to the nature of the project it is worth mentioning that software dependencies can be represented as a graph. A similar concept is used by Cox et al. in which he presents the dependency term.  
- 
- > Cox et al. argues that software dependencies can be represented as a graph. 
- 
-They say the same thing: one in a very convoluted way, the other in a straightforward way. 
-Which is better? Which is more clear? Which one is more powerful? 
 
