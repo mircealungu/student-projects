@@ -1,6 +1,6 @@
 
 * Do not use the term "interesting". Using it simply means that you didn't have the time to think clearly about what you say. 
-See the following examples:   
+See the following examples: 
 
 > In the last two articles, there were interesting ways to extract various data from the analyzed systems.
 
