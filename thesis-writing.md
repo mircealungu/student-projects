@@ -61,6 +61,10 @@ Which is better? Which is more clear? Which one is more powerful?
 
 Read More About This: [Strunk and White](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X) is an amazing little book. You can find also an online verison [at wikisource](https://en.wikisource.org/wiki/The_Elements_of_Style) 
 
+Use Active Voice
+===
+Text is more powerful and more clear if you do. Read the [Strunk and White section about this](https://en.wikisource.org/wiki/The_Elements_of_Style/Principles#11._Use_the_active_voice.).
+
 
 Apply the Single Responsibility Principle to Paragraphs
 ===
