@@ -6,3 +6,6 @@ This repository contains information for student projects. Most of the projects 
 ## The Project List
 
 For the full list of projects see the [issues in this repository](https://github.com/mircealungu/student-projects/issues?q=is%3Aopen+is%3Aissue). Please browse through them and [contact me](https://mircealungu.github.io/#contact) if you find one that you think you might want to work on. Also, feel free to comment on the issues if you have questions. There are also issues marked as stub which are not very well defined yet. However, feel free to browse through them to see whether a project title is interesting for you.
+
+
+<img width="699" alt="screen shot 2018-11-05 at 4 01 49 pm" src="https://www.dropbox.com/s/m69ucc1jdkyhk1u/project-topics.png">
