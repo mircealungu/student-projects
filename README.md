@@ -1,6 +1,6 @@
 ## This Repository
 
-This repository contains information for student projects. Most of the projects are flexible in the sense of they can be expanded to as Master's thesis but also compressed to a bachelor thesis of one person. However, first, find a topic that's interesting for you and then let's talk. 
+This repository contains information for student projects. Some of the projects are flexible in the sense of they can be expanded to as Master's thesis for two students but also compressed to a bachelor thesis of one person. However, first, find a topic that's interesting for you and then let's talk. Also, after having seen the kind of topics that are interesting for me, feel free to propose something that you think might be of interest that is missing. 
 
 
 ## The Project List
