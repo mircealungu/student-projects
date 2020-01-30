@@ -103,6 +103,12 @@ Saying that something is *interesting* simply means that you were too lazy to th
 List the facts that you thought were interesting, or remove such opinions from the text.
 
 
+Formatting
+===
+In a thesis, ensure that you chose a font and font size
+that gives you in average 60 characters per line. That's the easiest
+for reading, and you'll see it in any professionally typeset book. 
+
 
 
 
