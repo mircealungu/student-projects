@@ -1,7 +1,3 @@
-
-
-
-
 # Use Active Voice
 
 Always use active voice.
@@ -17,5 +13,6 @@ vs.
 
 Also, active voice is perceived as more powerful.
 
+## Read More
 
-
+- In [Strunk and White](https://en.wikisource.org/wiki/The_Elements_of_Style/Principles#11._Use_the_active_voice)
