@@ -6,4 +6,4 @@ for filepath in sorted(glob.iglob('writing_rules/*.md'), key=lambda x:x.split("/
     filename = filepath.split("/")[1]
     title = filename.replace("_"," ").replace(".md","")
 
-    print(f"[{title}]({filepath})")
+    print(f"* [{title}]({filepath})")
