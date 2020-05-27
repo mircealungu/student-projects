@@ -8,7 +8,7 @@ any written work to me.
 * [Keep Sentences Short](writing_rules/Keep_Sentences_Short.md)
 * [Never Use Interesting](writing_rules/Never_Use_Interesting.md)
 * [New Idea New Paragraph](writing_rules/New_Idea_New_Paragraph.md)
-* [OmitNeedlessWords](writing_rules/OmitNeedlessWords.md)
+* [Omit Needless Words](writing_rules/Omit_Needless_Words.md)
 * [The 60 Characters Per Line Rule](writing_rules/The_60_Characters_Per_Line_Rule.md)
 * [The Single Responsibility Principle for Text](writing_rules/The_Single_Responsibility_Principle_for_Text.md)
 * [Titles Should Summarize](writing_rules/Titles_Should_Summarize.md)
