@@ -11,7 +11,9 @@ vs.
 
 > **We chose** Cloud Firestore as it focused on ...
 
-Also, active voice is perceived as more powerful.
+Besides learning more from it, the reader will also perceive the active voice as more powerful.
+
+
 
 ## Read More
 
