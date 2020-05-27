@@ -1,4 +1,4 @@
-The 60 Characters Per Line Rule
+Lines Should Be At Most 60 Characters Wide
 ===
 
 In a thesis or any other longer report, ensure that you chose a font and font size
