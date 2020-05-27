@@ -4,11 +4,11 @@
 
 # New Idea - New Paragraph
 
-Always.
+A paragraph should be focused on a single idea. 
 
-When the focus of the discussion changes, start a new paragraph. It's simple. 
+Consequently, when the focus of the discussion changes, start a new paragraph. Always.
 
-Better two short paragraphs with two different ideas than one big paragraph with two distinct ideas. 
+Better two short paragraphs with two different ideas than one paragraph with two distinct ideas. 
 
 
 
