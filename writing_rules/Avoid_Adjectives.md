@@ -12,6 +12,8 @@ In a scientific text you should keep opinions for the *Discussion* section. Ever
 
 If you think your meetings were *fruitful* then instead of simply writing that, maybe highlight three things that the reader will understand are important that came out of those meetings. Then the user will understand that the meetings were fruitful. Show, don't tell. 
 
+If OTOH, the main point is that there were meetings, then you can drop the adjective alltogether. 
+
 
 Or look at the use of *abysmally* in the following example:
 
