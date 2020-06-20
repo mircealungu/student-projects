@@ -1,8 +1,7 @@
 # Avoid Adjectives
 
 Adjectives are usually your opinions or judgements. Use them sparingly if at all. 
-
-In a scientific text you should keep opinions for the *Discussion* section. Everywhere else, stick to facts.
+In scientific writing, you present the facts, the reader derives the opinions.
 
 Look at *fruitful* in the following example: 
 > In these meetings we had *fruitful* discussions...
