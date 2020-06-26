@@ -10,4 +10,4 @@ For the full list of projects see the [issues in this repository](https://github
 ## Advice for Writing a Thesis
 
 - [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing-advice.md)
-- [Thesis Structure](http://softlang.wikidot.com/info:thesis-structure) (By Ralf Lammel)
+- Thesis Structure and Advice: [Lemmel](http://softlang.wikidot.com/info:thesis-structure), [Shoaff](https://cs.fit.edu/~wds/guides/howto/), [Männistö](https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html)
