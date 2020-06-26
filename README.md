@@ -13,4 +13,4 @@ For the full list of projects see the [issues in this repository](https://github
 - Thesis Structure and Advice: [Lemmel](http://softlang.wikidot.com/info:thesis-structure), [Shoaff](https://cs.fit.edu/~wds/guides/howto/), [Männistö](https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html)
 
 ## Further Reading:
-- The Good Paper: [https://samfundslitteratur.dk/bog/good-paper]
+- [The Good Paper](https://samfundslitteratur.dk/bog/good-paper)
