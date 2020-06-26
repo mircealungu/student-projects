@@ -9,5 +9,8 @@ For the full list of projects see the [issues in this repository](https://github
 
 ## Advice for Writing a Thesis
 
-- [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing-advice.md)
+- [Scientific Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing-advice.md)
 - Thesis Structure and Advice: [Lemmel](http://softlang.wikidot.com/info:thesis-structure), [Shoaff](https://cs.fit.edu/~wds/guides/howto/), [Männistö](https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html)
+
+## Further Reading:
+- The Good Paper: [https://samfundslitteratur.dk/bog/good-paper]
