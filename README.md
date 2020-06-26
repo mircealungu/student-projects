@@ -9,5 +9,5 @@ For the full list of projects see the [issues in this repository](https://github
 
 ## Advice for Writing a Thesis
 
-- [Thesis Structure](http://softlang.wikidot.com/info:thesis-structure)(By Ralf Lammel)
 - [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing-advice.md)
+- [Thesis Structure](http://softlang.wikidot.com/info:thesis-structure) (By Ralf Lammel)
