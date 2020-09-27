@@ -9,7 +9,7 @@ For the full list of projects see the [issues in this repository](https://github
 
 ## Advice for Writing a Thesis
 
-- [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_rules/README.md) for scientific writing
+- [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md) for scientific writing
 - Thesis Structure and Advice: [Lemmel](http://softlang.wikidot.com/info:thesis-structure), [Shoaff](https://cs.fit.edu/~wds/guides/howto/), [Männistö](https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html)
 
 ## Further Reading:
