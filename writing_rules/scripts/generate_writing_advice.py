@@ -3,17 +3,20 @@
 import glob
 
 def generate_rule_links():
-	for filepath in sorted(glob.iglob('writing_rules/*.md'), key=lambda x:x.split("/")[1]):
-	    filename = filepath.split("/")[1]
-	    title = filename.replace("_"," ").replace(".md","")
+	for filepath in sorted(glob.iglob('./*.md'), key=lambda x:x.split("/")[1]):		
+		if "README.md" in filepath:
+			continue
+			
+		filename = filepath.split("/")[1]
+		title = filename.replace("_"," ").replace(".md","")
 
-	    print(f"* [{title}]({filepath})")
+		print(f"* [{title}]({filepath})")
 
 
 preamble = True
 after_the_rules = False
 
-with open('writing-advice.md') as f:
+with open('README.md') as f:
 	
 	for l in f.read().splitlines():
 
