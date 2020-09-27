@@ -7,7 +7,7 @@ The following are a rules that I want you to respect before submitting any writt
 * [Keep Sentences Short](writing_rules/Keep_Sentences_Short.md)
 * [Keep Units Cohesive](writing_rules/Keep_Units_Cohesive.md)
 * [Lines Should Be At Most 60 Characters Wide](writing_rules/Lines_Should_Be_At_Most_60_Characters_Wide.md)
-* [Never Use Interesting](writing_rules/Never_Use_Interesting.md)
+* [Never Use The Word Interesting](writing_rules/Never_Use_The_Word_Interesting.md)
 * [New Idea New Paragraph](writing_rules/New_Idea_New_Paragraph.md)
 * [Omit Needless Words](writing_rules/Omit_Needless_Words.md)
 * [Titles Should Summarize](writing_rules/Titles_Should_Summarize.md)
