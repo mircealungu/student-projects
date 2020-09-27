@@ -1,4 +1,4 @@
-The following are a rules that I want you to respect before submitting any written work to me. 
+The following are a rules that you must respect before submitting any written work to me. 
 
 * [Always Spellcheck Your Submission](writing_rules/Always_Spellcheck_Your_Submission.md)
 * [Avoid Adjectives](writing_rules/Avoid_Adjectives.md)
