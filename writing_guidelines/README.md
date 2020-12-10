@@ -10,7 +10,7 @@ The following are rules that you have to respect before submitting any written s
 * [Never Use The Word Interesting](./Never_Use_The_Word_Interesting.md)
 * [New Idea New Paragraph](./New_Idea_New_Paragraph.md)
 * [Omit Needless Words](./Omit_Needless_Words.md)
-* [ReferencesAreAnnotations](./ReferencesAreAnnotations.md)
+* [References Are Annotations](./References_Are_Annotations.md)
 * [Titles Should Summarize](./Titles_Should_Summarize.md)
 * [Use Active Voice](./Use_Active_Voice.md)
 * [Use the Right Font Size in Images](./Use_the_Right_Font_Size_in_Images.md)
