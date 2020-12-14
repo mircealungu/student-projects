@@ -11,6 +11,7 @@ The following are rules that you have to respect before submitting any written s
 * [Lines Should Be At Most 60 Characters Wide](./Lines_Should_Be_At_Most_60_Characters_Wide.md)
 * [Never Use The Word Interesting](./Never_Use_The_Word_Interesting.md)
 * [New Idea New Paragraph](./New_Idea_New_Paragraph.md)
+* [No New Information In Conclusion](./No_New_Information_In_Conclusion.md)
 * [Omit Needless Words](./Omit_Needless_Words.md)
 * [References Are Annotations](./References_Are_Annotations.md)
 * [Titles Should Summarize](./Titles_Should_Summarize.md)
