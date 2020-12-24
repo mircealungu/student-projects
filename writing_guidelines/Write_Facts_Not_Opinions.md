@@ -16,7 +16,7 @@ Maybe for you it's not **too many obstacles** but for somebody else they are. In
 
 After removing the opinion this becomes:
 
-> Authorson proposes a model, which focuses on three areas
+> Authorson proposes a model that focuses on three areas...
 
 
 
