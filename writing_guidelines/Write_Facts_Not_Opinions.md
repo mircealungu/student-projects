@@ -1,6 +1,9 @@
 Write Facts Not Opinions
 ====
 
+[Well, that's just like your opinion man.](img/your-opinion.png)
+
+
 Scientific writing is about facts not opinions. It is about data, not about your own viewpoints. There is a single place in your thesis where you are invited to write your opinions, and that is the Discussion or Conclusion section. Until then, stick to the facts. 
 
 
