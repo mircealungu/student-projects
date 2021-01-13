@@ -7,6 +7,16 @@ This repository contains information for student projects. Some of the projects 
 
 For the full list of projects see the [issues in this repository](https://github.com/mircealungu/student-projects/issues?q=is%3Aopen+is%3Aissue). Please browse through them and [contact me](https://mircealungu.github.io/#contact) if you find one that you think you might want to work on. Also, feel free to comment on the issues if you have questions. There are also issues marked as stub which are not very well defined yet. However, feel free to browse through them to see whether a project title is interesting for you.
 
+Below find the issues organized around topics:
+
+* [Software Evolution](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22software+evolution%22)
+* [Visualization](../../issues?q=is%3Aissue+is%3Aopen+label%3Avisualization)
+* [Big Software Data](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22big+software+data%22)
+* [Personalized Education Systems](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22personalized+learning%22)
+* [Machine Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Amachine-learning)
+
+
+
 ## Advice for Writing a Thesis
 
 - [Writing Guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md) for scientific writing
