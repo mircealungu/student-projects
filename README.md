@@ -12,7 +12,7 @@ I normally supervise projects that fall under one of the categories listed below
 * [Big Software Data](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22big+software+data%22)
 * [Smart Education Systems](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22personalized+learning%22)
 * [Machine Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Amachine-learning)
-* [Service Performance] (https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Aflask-monitoring-dashboard)
+* [Service Performance](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Aflask-monitoring-dashboard)
 
 Please browse through the categories that are interesting for you and [contact me](https://mircealungu.github.io/#contact) if you find one that you think you might want to work on. Also, feel free to comment on the issues if you have questions. There are also issues marked as stub which are not very well defined yet. However, feel free to browse through them to see whether a project title is interesting for you.
 
