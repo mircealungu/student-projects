@@ -16,6 +16,7 @@ The following are rules that you have to respect before submitting any written s
 * [References Are Annotations](./References_Are_Annotations.md)
 * [Titles Should Summarize](./Titles_Should_Summarize.md)
 * [Use Active Voice](./Use_Active_Voice.md)
+* [Use Enumeration When Appropriate](./Use_Enumeration_When_Appropriate.md)
 * [Use the Right Font Size in Images](./Use_the_Right_Font_Size_in_Images.md)
 * [Write Facts Not Opinions](./Write_Facts_Not_Opinions.md)
 
