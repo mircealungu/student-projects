@@ -8,6 +8,7 @@ The following are rules that you have to respect before submitting any written s
 * [Free the Text from Behind Bars](./Free_the_Text_from_Behind_Bars.md)
 * [Keep Sentences Short](./Keep_Sentences_Short.md)
 * [Keep Units Cohesive](./Keep_Units_Cohesive.md)
+* [Knowledge Instead of Personal Learning](./Knowledge_Instead_of_Personal_Learning.md)
 * [Lines Should Be At Most 60 Characters Wide](./Lines_Should_Be_At_Most_60_Characters_Wide.md)
 * [Never Use The Word Interesting](./Never_Use_The_Word_Interesting.md)
 * [New Idea New Paragraph](./New_Idea_New_Paragraph.md)
