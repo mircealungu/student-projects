@@ -1,5 +1,7 @@
 
 # Format Tables Carefully
 
-If you have numbers, separate the thousands; and align right; it's easier to compare across the column.
+If you have numbers on your columns, separate the thousands.
+
+Also align numbers to the right: it's easier to compare numbers across the column if they're right aligned.
 
