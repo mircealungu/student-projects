@@ -10,7 +10,7 @@ I normally supervise projects that fall under one of the categories listed below
 * [Software Evolution](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22software+evolution%22)
 * [Visualization](../../issues?q=is%3Aissue+is%3Aopen+label%3Avisualization)
 * [Big Software Data](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22big+software+data%22)
-* [Smart Education Systems](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22personalized+learning%22)
+* [The Future of Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22personalized+learning%22)
 * [Machine Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Amachine-learning)
 * [Performance Engineering](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Aflask-monitoring-dashboard)
 
