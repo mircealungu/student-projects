@@ -3,6 +3,7 @@ The following are rules that you have to respect before submitting any written s
 * [Always Spellcheck Your Submission](./Always_Spellcheck_Your_Submission.md)
 * [Avoid Adjectives](./Avoid_Adjectives.md)
 * [Do Not Address the Reader](./Do_Not_Address_the_Reader.md)
+* [Do Not Tell Me What You Will Tell Me](./Do_Not_Tell_Me_What_You_Will_Tell_Me.md)
 * [Every Figure Should Be Referenced In The Text](./Every_Figure_Should_Be_Referenced_In_The_Text.md)
 * [Favor Present Tense](./Favor_Present_Tense.md)
 * [Format Tables Carefully](./Format_Tables_Carefully.md)
