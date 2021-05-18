@@ -1,5 +1,6 @@
 The following are rules that you have to respect before submitting any written scientific work (to me, or to another scientific advisor). 
 
+* [Always Number Figures](./Always_Number_Figures.md)
 * [Always Spellcheck Your Submission](./Always_Spellcheck_Your_Submission.md)
 * [Avoid Adjectives](./Avoid_Adjectives.md)
 * [Do Not Address the Reader](./Do_Not_Address_the_Reader.md)
