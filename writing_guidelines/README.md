@@ -9,6 +9,7 @@ The following are rules that you have to respect before submitting any written s
 * [Favor Present Tense](./Favor_Present_Tense.md)
 * [Format Tables Carefully](./Format_Tables_Carefully.md)
 * [Free the Text from Behind Bars](./Free_the_Text_from_Behind_Bars.md)
+* [It Is Never Obvious](./It_Is_Never_Obvious.md)
 * [Keep Sentences Short](./Keep_Sentences_Short.md)
 * [Keep Units Cohesive](./Keep_Units_Cohesive.md)
 * [Knowledge Instead of Personal Learning](./Knowledge_Instead_of_Personal_Learning.md)
