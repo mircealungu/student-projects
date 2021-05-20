@@ -8,6 +8,7 @@ The following are rules that you have to respect before submitting any written s
 * [Every Figure Has A Caption](./Every_Figure_Has_A_Caption.md)
 * [Every Figure Should Be Referenced In The Text](./Every_Figure_Should_Be_Referenced_In_The_Text.md)
 * [Favor Present Tense](./Favor_Present_Tense.md)
+* [Figures Tables Sections Are Uppercase](./Figures_Tables_Sections_Are_Uppercase.md)
 * [Format Tables Carefully](./Format_Tables_Carefully.md)
 * [Free the Text from Behind Bars](./Free_the_Text_from_Behind_Bars.md)
 * [It Is Never Obvious](./It_Is_Never_Obvious.md)
