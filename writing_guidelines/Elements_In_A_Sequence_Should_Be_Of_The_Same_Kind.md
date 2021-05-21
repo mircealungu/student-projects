@@ -7,7 +7,7 @@ Consider the following:
 - A bulleted list
 - The subsections of a chapter
 
-What do they have in common? They are all lists of things. When you have a list of things, the elements in the list . Such lists should be made out of elements of the same kind. 
+What do they have in common? They are all lists of things. When you have a list of things, the elements in the list should be of the same kind. 
 
 The list above is such an example. 
 
