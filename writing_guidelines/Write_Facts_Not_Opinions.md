@@ -19,6 +19,13 @@ After removing the opinion this becomes:
 
 > Authorson proposes a model that focuses on three areas...
 
+### More Examples
+
+> At this point, the tool has created a __very powerful__ data structure that can be used to derive __a lot__ of information and do __a lot__ of analysis.
+
+
+
+
 
 
 ## See More

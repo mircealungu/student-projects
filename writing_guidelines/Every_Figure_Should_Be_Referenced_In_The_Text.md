@@ -3,3 +3,4 @@
 Figures are there to support the text.
 
 Thus, the text should refer to each one of them. 
+
