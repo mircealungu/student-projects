@@ -8,9 +8,9 @@ From a student submission.
 
 Who is *you* here? Me, the reviewer? What if I don't want to build web UIs C but I want to learn about your approach? 
 
-In scientific writing you're not talking to the reader. Pretty much never.
+In scientific writing you're not addressing the reader. Never.
 
-Also, using "you" is a sign that the text is not specific enough; 
+How to fix this? Well, in the above example using "you" is also sign that the text is not specific enough; 
 and that the writer didn't think enough about whom is that prototype for. 
 Replacing the *you* with the actual role for whom the prototype was designed, would have also made the text more concrete, and thus stronger: 
 
