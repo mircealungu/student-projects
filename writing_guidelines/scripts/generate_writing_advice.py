@@ -4,7 +4,7 @@ import glob
 
 def generate_rule_links():
 	for filepath in sorted(glob.iglob('./*.md'), key=lambda x:x.split("/")[1]):		
-		if "README.md" in filepath:
+		if "README.md" in filepath or "Links.md" in filepath:
 			continue
 			
 		filename = filepath.split("/")[1]
