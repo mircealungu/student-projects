@@ -26,6 +26,7 @@ The following are rules that you have to respect before submitting any written s
 * [Omit Needless Words](./Omit_Needless_Words.md)
 * [References Are Annotations](./References_Are_Annotations.md)
 * [Respect InfoVis Principles In Your Charts](./Respect_InfoVis_Principles_In_Your_Charts.md)
+* [Thousands Separator In Large Numbers](./Thousands_Separator_In_Large_Numbers.md)
 * [Titles Should Summarize](./Titles_Should_Summarize.md)
 * [Use Active Voice](./Use_Active_Voice.md)
 * [Use Enumeration When Appropriate](./Use_Enumeration_When_Appropriate.md)
