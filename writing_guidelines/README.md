@@ -14,6 +14,7 @@ The following are rules that you have to respect before submitting any written s
 * [Figures Tables Sections Are Uppercase](./Figures_Tables_Sections_Are_Uppercase.md)
 * [Format Tables Carefully](./Format_Tables_Carefully.md)
 * [Free the Text from Behind Bars](./Free_the_Text_from_Behind_Bars.md)
+* [Introduce Concepts Before Using Them](./Introduce_Concepts_Before_Using_Them.md)
 * [It Is Never Obvious](./It_Is_Never_Obvious.md)
 * [Keep Figures Close To Text](./Keep_Figures_Close_To_Text.md)
 * [Keep Sentences Short](./Keep_Sentences_Short.md)
