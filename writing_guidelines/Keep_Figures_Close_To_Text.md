@@ -7,4 +7,4 @@ Tricks that you can use to bring figures closer to text:
 
 - in LaTeX you can use the [h!] parameter for includegraphics
 
-In extreme cases, you can leave some extra empty space at the bottom of the page in order to allow the next figure and associated text to be on the same page.
+**Hint:** In extreme cases, you can start a new section on a new page early (and thus leave some extra empty space at the bottom of a page) in order to allow a figure and associated text to be on the same page. A reader will be thankful if he does not have to go back and forth in your document. 
