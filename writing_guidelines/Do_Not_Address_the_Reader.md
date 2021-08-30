@@ -18,7 +18,7 @@ Replacing the *you* with the actual role for whom the prototype was designed, wo
 
 
 
-**Note:** In rare occasions one wants to address the reader in their reader role, call them by their role: 
+**Note:** In rare occasions one wants to address the reader in their reader role. In this case refer to their role rather than using the personal pronoun ("you")
 
 > The reader of this thesis might view a demo video online...
 
