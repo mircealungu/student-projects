@@ -13,4 +13,6 @@ The image below is bad because the font in the diagram is much smaller than the 
 
 Just as annoying can be the text in a figure that is much larger than the surrounding text.
 
+![](img/image-with-very-large-font.png)
+
 
