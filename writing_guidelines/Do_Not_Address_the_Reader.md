@@ -18,7 +18,11 @@ Replacing the *you* with the actual role for whom the prototype was designed, wo
 
 
 
-**Note:** In rare occasions one wants to address the reader in their reader role; still the writer should not talk to *you* but rather call them by their role: 
+**Note:** In rare occasions one wants to address the reader in their reader role, call them by their role: 
 
-> The reader of this thesis might view a video demo online...
+> The reader of this thesis might view a demo video online...
+
+sounds more professional than
+
+> You can view a demo video online
 
