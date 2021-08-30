@@ -15,3 +15,10 @@ and that the writer didn't think enough about whom is that prototype for.
 Replacing the *you* with the actual role for whom the prototype was designed, would have also made the text more concrete, and thus stronger: 
 
 > Our prototype lets *the database administrator* build an interactive web UIs...
+
+
+
+**Note:** In rare occasions one wants to address the reader in their reader role; still the writer should not talk to *you* but rather call them by their role: 
+
+> The reader of this thesis might view a video demo online...
+
