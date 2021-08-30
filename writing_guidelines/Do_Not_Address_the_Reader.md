@@ -20,9 +20,9 @@ Replacing the *you* with the actual role for whom the prototype was designed, wo
 
 **Note:** In the rare occasions where you need to address the reader in their reader role, refer to their role rather than using the personal pronoun ("you")
 
-> The reader of this thesis might view a demo video online...
+> The reader of this thesis might view a demo video online at some.url.
 
 sounds more professional than
 
-> You can view a demo video online
+> You can view a demo video online at some.url.
 
