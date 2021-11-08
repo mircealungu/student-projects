@@ -1,6 +1,7 @@
 # Every Figure Should Be Referenced In the Text
 
-Figures are there to support the text.
+Figures and Tables are there to support the text.
 
-Thus, the text should refer to each one of them. 
+Thus, they should be numbered, and the text should refer to each one of them. 
+
 
