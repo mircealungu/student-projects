@@ -2,7 +2,7 @@
 
 
 
-# Use Right Font Size in Images
+# Use the Right Font Size in Images
 
 Font size in images should be comparable with the rest of the text in the document. 
 If the font is too small or too large, resize image in such a way as to have the font match the font of the text. 
