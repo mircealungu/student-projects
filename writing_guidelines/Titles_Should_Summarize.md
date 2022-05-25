@@ -14,5 +14,5 @@ In such situations, to ensure that the title summarizes, either change the conte
 
 *Heuristic*: 
 - If a term from the title does not appear in the body of the text, probably it should not appear in the title either.
-- If you're studying only one subject, often you're doing a Case Study
+- If you're studying only one subject or a handful of subjects, you might be doing a Case Study, so consider making this explicit in the title
 
