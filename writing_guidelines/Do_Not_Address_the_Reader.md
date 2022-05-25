@@ -4,11 +4,17 @@
 In scientific writing you're not supposed to address the reader. 
 
 
-**Example** from a student submission. 
+#### Example #1
 
 > Our prototype lets you build interactive web UIs using C. 
 
 Who is *you* here? Me, the reviewer? What if I don't want to build web UIs C but I want to learn about your approach? 
+
+#### Example #2
+
+> Let’s try to add some weights to the graph
+
+This sounds like I'm reading a children's story or a blog, not a scientific paper.
 
 
 ### What to do instead? 
