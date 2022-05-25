@@ -2,17 +2,30 @@
 
 Always use active voice.
 
-Using passive voice requires more words to provide less information (i.e., it obscures who did the action).
-Compare the following to examples. Which is more informative? Which is easier to read? 
+Using passive voice requires more words to provide less information (i.e., it obscures who did the action). Moreover, the reader will also perceive the active voice *as more powerful* (authoritative).
 
+Compare the following examples: which is more informative? easier to read? more powerful? 
+
+
+## Example #1
 > **The choice became** Cloud Firestore as it focused on...
 
-vs.
+vs. 
 
 > **We chose** Cloud Firestore as it focused on ...
 
-Besides learning more from it, the reader will also perceive the active voice *as more powerful*.
+In the first case, the reader asks themselves: how did the choice end up **becoming** that? The second case also reads more powerful. 
 
+
+## Example #2
+
+> The following reverse engineering patterns will be used to analyze data: 
+
+vs. 
+
+> I used the following reverse engineering patterns to analyze the data:
+
+The second case is easier to read and also more powerful. 
 
 
 ## Read More
