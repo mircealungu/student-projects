@@ -18,7 +18,7 @@ This sounds like I'm reading a children's story or a blog, not a scientific pape
 
 
 ### What to do instead? 
-In the above example using "you" is also sign that the text is not specific enough; 
+In Example #1 using "you" is also sign that the text is not specific enough; 
 and that the writer didn't think enough about whom is that prototype for. 
 Replacing the *you* with the actual role for whom the prototype was designed, would have also made the text more concrete, and thus stronger: 
 
