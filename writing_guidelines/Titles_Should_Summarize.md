@@ -12,5 +12,7 @@ I've seen:
 In such situations, to ensure that the title summarizes, either change the content or the title... And usually the title is easier :)
 
 
-*Heuristic*: If a term from the title does not appear in the body of the text, probably it should not appear in the title either.
+*Heuristic*: 
+- If a term from the title does not appear in the body of the text, probably it should not appear in the title either.
+- If you're studying only one subject, often you're doing a Case Study
 
