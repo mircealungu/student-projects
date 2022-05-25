@@ -2,8 +2,8 @@
 
 Always use active voice.
 
-Using passive voice requires more words to provide less information.
-Compare the following to examples. Which is more informative?
+Using passive voice requires more words to provide less information (i.e., it obscures who did the action).
+Compare the following to examples. Which is more informative? Which is easier to read? 
 
 > **The choice became** Cloud Firestore as it focused on...
 
@@ -11,7 +11,7 @@ vs.
 
 > **We chose** Cloud Firestore as it focused on ...
 
-Besides learning more from it, the reader will also perceive the active voice as more powerful.
+Besides learning more from it, the reader will also perceive the active voice *as more powerful*.
 
 
 
