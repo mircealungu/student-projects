@@ -1,5 +1,6 @@
 The following are rules that you have to respect before submitting any written scientific work (to me, or to another scientific advisor). 
 
+* [Align Text Left and Numbers Right in Tables](./Align_Text_Left_and_Numbers_Right_in_Tables.md)
 * [Always Number Figures](./Always_Number_Figures.md)
 * [Always Spellcheck Your Submission](./Always_Spellcheck_Your_Submission.md)
 * [Avoid Adjectives](./Avoid_Adjectives.md)
@@ -13,7 +14,6 @@ The following are rules that you have to respect before submitting any written s
 * [Favor Present Tense](./Favor_Present_Tense.md)
 * [Figures And Sections Are Uppercase](./Figures_And_Sections_Are_Uppercase.md)
 * [Figures Tables Sections Are Uppercase](./Figures_Tables_Sections_Are_Uppercase.md)
-* [Format Tables Carefully](./Format_Tables_Carefully.md)
 * [Free the Text from Behind Bars](./Free_the_Text_from_Behind_Bars.md)
 * [Introduce Concepts Before Using Them](./Introduce_Concepts_Before_Using_Them.md)
 * [It Is Never Obvious](./It_Is_Never_Obvious.md)
@@ -34,6 +34,7 @@ The following are rules that you have to respect before submitting any written s
 * [Use Enumeration When Appropriate](./Use_Enumeration_When_Appropriate.md)
 * [Use Sufficient Resolution For Images](./Use_Sufficient_Resolution_For_Images.md)
 * [Use the Right Font Size in Images](./Use_the_Right_Font_Size_in_Images.md)
+* [Vary Sentence Length](./Vary_Sentence_Length.md)
 * [Write Facts Not Opinions](./Write_Facts_Not_Opinions.md)
 
 Practice these rules on your thesis and any in other technical report. Being a good writer is an important skill in any context you might end up in, not only in the university. 
