@@ -8,7 +8,7 @@ In scientific writing you're not supposed to address the reader.
 
 > Our prototype lets you build interactive web UIs using C. 
 
-Who is *you* here? Me, the reviewer? What if I don't want to build web UIs C but I want to learn about your approach? Then I can't identify. And you lose me. Also, is this really something that reviewers care about. 
+Who is *you* here? Me, the reviewer? What if I don't want to build web UIs C but I want to learn about your approach? Then I can't identify. And you lose my interest. Do you want that? 
 
 ### What to do instead? 
 In Example #1 using "you" is also sign that the text is not specific enough; 
