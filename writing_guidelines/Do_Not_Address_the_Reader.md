@@ -10,7 +10,7 @@ In scientific writing you're not supposed to address the reader.
 
 Who is *you* here? Me, the reviewer? What if I don't want to build web UIs C but I want to learn about your approach? Then I can't identify. And you lose my interest. Do you want that? 
 
-### What to do instead? 
+##### What to do instead? 
 In Example #1 using "you" is also sign that the text is not specific enough; 
 and that the writer didn't think enough about whom is that prototype for. 
 Replacing the *you* with the actual role for whom the prototype was designed, would have also made the text more concrete, and thus stronger: 
