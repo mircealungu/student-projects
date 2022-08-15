@@ -1,6 +1,15 @@
 
 # Abstract as the four-sentence-summary
 
+Template for the abstract:
+
+1. The problem
+2. Why the problem is a problem
+3. My startling sentence
+4. The implication of my startling sentence
+
+The reason for this: 
+
 By Kent Beck
 
 The abstract is your four sentence summary of the conclusions of your paper. Its primary purpose is to get your paper into the A pile. Most PC members sort their papers in an A pile and a B pile by reading the abstracts. The A pile papers get smiling interest, the B pile papers are a chore to be slogged through. By keeping your abstract short and clear, you greatly enhance your chances of being in the A pile. I try to have four sentences in my abstract. The first states the problem. The second states why the problem is a problem. The third is my startling sentence. The fourth states the implication of my startling sentence. An abstract for this paper done in this style would be:
