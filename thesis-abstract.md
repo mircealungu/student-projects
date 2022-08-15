@@ -1,7 +1,7 @@
 
 # Abstract as the four-sentence-summary
 
-Template for the abstract:
+Recommended structure for a good abstract:
 
 1. The problem
 2. Why the problem is a problem
