@@ -10,6 +10,7 @@ the appendeix; ths is stupid and hopefully we'll change it at some point.
 
 ## Publish Datasets
 Make sure that the datasets that you used for your work are accessible.
+Making the raw data available is important for transparency and reproducibility. 
 A Google spreadsheet is ok; but if possible, uploading it in a GH repository
 as XLS or CSV increases the chance of that data being available in the future.
 
