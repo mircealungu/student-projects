@@ -3,7 +3,8 @@ If I have to see it, it is not in the Appendix
 
 
 Appendix is for material that I might want to see or I might not want to see. 
-If I have to see it, then it's not appendix.
+
+If it is essential for understanding the text, If I have to see it, then it can not stay in the appendix.
 
 Look at the following example: 
 
@@ -11,3 +12,4 @@ Look at the following example:
 
 Should Figure 5 be in Appendix? Nope. I can't keep reading without looking at Figure 5. You're talking about it here. So i have to see it to understand the main message. 
 Thus, the figure should be here, not in the appendix.
+
