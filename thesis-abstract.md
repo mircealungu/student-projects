@@ -1,5 +1,5 @@
 
-# Abstract as the four-sentence-summary
+# Abstract as the four-sentence-summary, by Kent Beck
 
 Recommended structure for a good abstract:
 
@@ -19,3 +19,11 @@ The abstract is your four sentence summary of the conclusions of your paper. Its
 Well, I'm not sure that's a great abstract, but you get the idea. I always feel funny writing an abstract this way. The idea I thought was so wonderful when I started writing the paper looks naked and alone sitting there with no support. I resist the temptation to argue for my conclusion in the abstract. I think it gives the reader more incentive to carefully read the rest of the paper. They want to find you how in the world you could possible say such an outrageous thing. There are my four steps to better papers. You can use them sequentially to write papers, or you can use them to evaluate papers you have already written.
 
 from: https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html
+
+# Extended Abstract, by Nature
+
+From: https://twitter.com/ProfLaurenBall/status/1582235038506430464?s=20&t=Oxr_oziOpJssFY3SKaENpg
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/464519/196561613-5e5bef65-b3a3-49ef-bf7d-3f6a4e58e001.png">
+
+
