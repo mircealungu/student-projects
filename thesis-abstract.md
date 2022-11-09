@@ -20,10 +20,11 @@ Well, I'm not sure that's a great abstract, but you get the idea. I always feel 
 
 from: https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html
 
-# Extended Abstract, by Nature
+## Mircea's Comment to Kent Beck's Abstract
 
-From: https://twitter.com/ProfLaurenBall/status/1582235038506430464?s=20&t=Oxr_oziOpJssFY3SKaENpg
+Often, when doing empirical software engineering research you'll have to also propose a research question.
 
-<img width="697" alt="image" src="https://user-images.githubusercontent.com/464519/196561613-5e5bef65-b3a3-49ef-bf7d-3f6a4e58e001.png">
+If you look at the above abstract you’ll see that the RQ can be then obtained by reversing the third sentence. In the abstract example from Kent Beck that would be something like: 
 
+> Can following four steps in writing an abstract increase the chances of a paper being accepted at OOPSLA?
 
