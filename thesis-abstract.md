@@ -20,7 +20,7 @@ Well, I'm not sure that's a great abstract, but you get the idea. I always feel 
 
 from: https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html
 
-## Mircea's Comment to Kent Beck's Abstract
+## Mircea's Note to Kent Beck's Advice
 
 Often, when doing empirical software engineering research you'll have to also propose a research question.
 
