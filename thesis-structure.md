@@ -10,10 +10,12 @@ There are multiple kinds of thesis.
 
 ## Problem
 
-	Make it clear that there's a problem.
-	That it's important.
-	By the end of this, the reader should be curious: how could you solve this problem!
+Make it clear that there's a problem.
+That it's important.
+By the end of this, the reader should be curious: how could you solve this problem!
+If you don't identify a clear problem, you can't find the related work; you likely won't have a clear solution 
 
+At ITU identifying a clear problem is a [goal](https://itustudent.itu.dk/study-administration/project-work/project-goals) of any individual or group project. 
 
 ## Related Work
 
@@ -35,6 +37,7 @@ There are multiple kinds of thesis.
 ## Discussion
 
 	Step back and think about the entire thesis.
+	The meaning of the project for you is not here. 
 
 
 
