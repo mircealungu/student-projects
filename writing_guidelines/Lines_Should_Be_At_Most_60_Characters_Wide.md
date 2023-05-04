@@ -8,4 +8,8 @@ Pick up any professionally typeset book off your bookshelf and you'll observe th
 Thus, in your thesis or any other longer report, ensure that you chose a font size and page width that combined result in about 60 characters per line. 
 
 
+
+
+## References
+
 Image [Source](https://baymard.com/blog/line-length-readability)
