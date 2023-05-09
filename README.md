@@ -2,8 +2,22 @@
 
 This repository contains information for student projects. Some of the projects are flexible in the sense of they can be expanded to as Master's thesis for two students but also compressed to a bachelor thesis of one person. However, first, find a topic that's interesting for you and then let's talk. Also, after having seen the kind of topics that are interesting for me, feel free to propose something that you think might be of interest that is missing. 
 
+## Active Research Projects
 
-## The Projects
+I usually have several active research project prototypes that are created by students and I play more the role of product owner of (although sometimes also maintainer). 
+
+The currently active projects are: 
+
+- [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
+- [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
+- [Zeeguu](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
+- [MathsCamp](projects/maths-camp.md) - personalized maths for kids
+- [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
+
+If you think that the idea of any of these is nice and you'd be interested in taking a given project and bringing it to the next level let me know. We will surely be able to define something together.
+
+
+## Topics by Domain
 
 I normally supervise projects that fall under one of the categories listed below: 
 
