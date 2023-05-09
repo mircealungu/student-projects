@@ -13,8 +13,6 @@ I normally supervise projects that fall under one of the categories listed below
 * [The Future of Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22personalized+learning%22+-label%3A%22stub%22+-label%3A%22draft%22+)
 * [Machine Learning](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Amachine-learning+-label%3A%22stub%22+-label%3A%22draft%22+)
 * [Performance Engineering](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3Aflask-monitoring-dashboard+-label%3A%22stub%22+-label%3A%22draft%22+)
-* [Interaction Design](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22interaction+design%22+-label%3A%22stub%22+-label%3A%22draft%22+)
-* [Software Architecture](https://github.com/mircealungu/student-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22software+architecture%22+-label%3A%22stub%22+-label%3A%22draft%22+)
 
 Please browse through the categories that are interesting for you and [contact me](https://mircealungu.github.io/#contact) if you find one that you think you might want to work on. Also, feel free to comment on the issues if you have questions. There are also issues marked as stub which are not very well defined yet. However, feel free to browse through them to see whether a project title is interesting for you.
 
