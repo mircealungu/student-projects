@@ -8,11 +8,12 @@ I usually have several active research project prototypes that are created by st
 
 The currently active projects are: 
 
-- [**Git-Truck**](projects/git-truck.md) - visualizing git repositories for fun and profit
-- [**Flask Monitoring Dashboard**](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
+- [**Live Architectural Diagrams**](https://github.com/Perlten/Architectural-Lens) - taking inspiration from unit tests when we specify our architectural diagrams
 - [**Zeeguu**](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
-- [**MathsCamp**](projects/maths-camp.md) - personalized maths for kids
+- [**Flask Monitoring Dashboard**](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
+- [**Git-Truck**](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [**Aiki**](projects/aiki.md) - a browser extension that uses procrastination for good
+
 
 If you think that the idea of any of these is nice and you'd be interested in taking a given project and bringing it to the next level let me know. We should be able to define something together.
 
