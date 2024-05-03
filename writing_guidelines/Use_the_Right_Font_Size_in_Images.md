@@ -7,7 +7,7 @@
 Font size in images should be comparable with the rest of the text in the document. 
 If the font is too small or too large, resize image in such a way as to have the font match the font of the text. 
 
-The image below is bad because the font in the diagram is much smaller than the font in the surrounding text: 
+The image below is bad because the font in the diagram is much smaller than the font in the surrounding text. The reader has printed the text, or if they are reading on the screen, has set the font at a readable size, and automatically this image can't be read in that context. The reader is disturbed. Now they are upset with your sloppiness. This is not in your interest. 
 
 ![](img/image-with-very-small-font.png)
 
