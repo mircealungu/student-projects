@@ -1,4 +1,4 @@
-# Fake a Rational Process 
+# Your Solution as a Rational Process 
 
 In his seminal paper [A Rational Design Process](https://users.ece.utexas.edu/~perry/education/SE-Intro/fakeit.pdf), 
 Dave Parnas argues that when describing the software architecture of a system, one should not describe the trials and tribulations
