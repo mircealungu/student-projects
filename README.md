@@ -11,7 +11,7 @@ The currently active projects are:
 - [**ArchLens**](https://mircealungu.com/projects/ArchLens.html) - a simple way of specifying architectural diagrams that allows them to always be up to date
 - [**Zeeguu**](https://mircealungu.com/projects/zeeguu) - personalizing the foreign language web for learners
 - [**Flask Monitoring Dashboard**](https://mircealungu.com/projects/flask-monitoring-dashboard) - a lightweight API monitor for Flask/Python systems 
-- [**Git-Truck**](https://github.com/git-truck/git-truck) - visualizing git repositories for fun and profit
+- [**Git-Truck**](https://github.com/git-truck/git-truck) - interactive visualization of git repositories 
 - [**Aiki**](https://mircealungu.com/projects/aiki) - a browser extension that uses procrastination for good
 
 
