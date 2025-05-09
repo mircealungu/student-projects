@@ -9,8 +9,8 @@ I usually have several active research project prototypes that are created by st
 The currently active projects are: 
 
 - [**ArchLens**](https://mircealungu.com/projects/ArchLens.html) - a simple way of specifying architectural diagrams that allows them to always be up to date
-- [**Flask Monitoring Dashboard**](https://mircealungu.com/projects/flask-monitoring-dashboard) - a lightweight API monitor for Flask/Python systems 
-- [**Git-Truck**](https://github.com/git-truck/git-truck) - interactive visualization of git repositories 
+- [**Git-Truck**](https://github.com/git-truck/git-truck) - interactive visualization of git repositories
+- [**FMD**](https://mircealungu.com/projects/flask-monitoring-dashboard) - a lightweight API monitor for Flask/Python systems 
 - [**Zeeguu**](https://mircealungu.com/projects/zeeguu) - personalizing the foreign language web for learners
 - [**Aiki**](https://mircealungu.com/projects/aiki) - a browser extension that uses the procrastination impulse to redirect the user to doing something useful
 
