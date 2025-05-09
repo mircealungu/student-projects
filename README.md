@@ -8,7 +8,7 @@ I usually have several active research project prototypes that are created by st
 
 The currently active projects are: 
 
-- [**Live Architectural Diagrams**](https://github.com/Perlten/Architectural-Lens) - taking inspiration from unit tests when we specify our architectural diagrams
+- [**Live Architectural Diagrams**](https://github.com/archlens) - simple way of specifying architectural diagrams that allows them to always be up to date
 - [**Zeeguu**](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
 - [**Flask Monitoring Dashboard**](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
 - [**Git-Truck**](projects/git-truck.md) - visualizing git repositories for fun and profit
