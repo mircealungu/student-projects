@@ -12,7 +12,7 @@ The currently active projects are:
 - [**Zeeguu**](https://mircealungu.com/projects/zeeguu) - personalizing the foreign language web for learners
 - [**Flask Monitoring Dashboard**](https://mircealungu.com/projects/flask-monitoring-dashboard) - a lightweight API monitor for Flask/Python systems 
 - [**Git-Truck**](https://github.com/git-truck/git-truck) - interactive visualization of git repositories 
-- [**Aiki**](https://mircealungu.com/projects/aiki) - a browser extension that uses procrastination for good
+- [**Aiki**](https://mircealungu.com/projects/aiki) - a browser extension that uses the procrastination impulse to redirect the user to doing something useful
 
 
 If you think that the idea of any of these is nice and you'd be interested in taking a given project and bringing it to the next level let me know. We should be able to define something together.
