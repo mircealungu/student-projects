@@ -16,3 +16,6 @@ Just as annoying can be the text in a figure that is much larger than the surrou
 ![](img/image-with-very-large-font.png)
 
 
+Or another example where the text of the image is much too large compared with the text on the page, and makes the figure look unprofesisonal: 
+
+<img width="1065" alt="image" src="https://github.com/user-attachments/assets/d7887642-c664-49ce-af02-8a3ce57f5ffe" />
