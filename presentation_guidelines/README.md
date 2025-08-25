@@ -6,6 +6,7 @@
 - Add a discussion where you step back and you criticize your own work that's what the discussion is about showing.
 - What are the limitations of the work?
 - Make sure to, and just like in the face with three important future research directions think about them as what would be the next three masters that you would supervise in this domain.
+- make sure that if you include images, the font in the images is needed too small not too big but the right size compared to the text that surrounds it
 
 
 ## Small Details (that matter)
