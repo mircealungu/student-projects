@@ -14,7 +14,7 @@ So: the same four elements, with two insertions.
 But at least you should have an expectation.
 5. **How you will find out.** The method and the data you'll collect. If the question turns on
 users "understanding" something, or a tool being "usable", ask yourself how you would detect
-it — a task in a lab, a number in the logs, a coded interview. 
+it — a task in a lab, a number in the logs, a coded interview. And say how you'd know if it didn't work.
 6. **The implication, if it holds.**
 
 This is not a section template. You don't have to hand in six labelled headings. But try to start with six sentences first.
