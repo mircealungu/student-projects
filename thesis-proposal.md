@@ -7,7 +7,7 @@ to say how you plan to answer it.
 So: the same four elements, with two insertions.
 
 1. **The problem.**
-2. **Why the problem is a problem.** Convince the reader. Why should they bother reading this thesis. Why will you bother working on it? Why is it important?
+2. **Why the problem is a problem.** Why should the reader bother reading this thesis? Why will you bother working on it?
 3. **The research question.** (In the abstract this will become a claim. For now it's Kent
    Beck's third sentence, reversed — see the note at the bottom of `thesis-abstract.md`.)
 4. **What you expect the answer to be.** You are allowed to turn out to be wrong. 
@@ -68,7 +68,7 @@ The paragraphs will not come out equal. Element 5 is usually the longest, becaus
 
 What you should not do is turn the six into six labelled headings. 
 
-## Element 5
+## Element 5 - The Method
 
 If your question involves users "understanding" something, or a tool being "usable", or a process being "improved", try to answer this first: **how would I detect it?** A task-based measure, a validated
 questionnaire, a number in the logs, a coded interview transcript. Give your best estimation of how you'll do this in element five. 
