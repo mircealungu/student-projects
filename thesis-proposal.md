@@ -62,16 +62,11 @@ runs to two sentences: the method needs room even in the compressed version.
 The six sentences are the skeleton, not the submission. Once they hold, each one becomes the
 first sentence of a paragraph and the rest of that paragraph is support: the evidence behind
 the problem, the numbers behind the cost, the design of the study, the threats to its
-validity. Someone who reads only your six opening sentences should still come away with the
-whole proposal.
+validity. 
 
-The paragraphs will not come out equal. Element 5 is usually the longest, because method and
-falsification need room; element 6 is often still a single sentence. Expand each as far as it
-needs and no further — a paragraph written because a slot existed is visible from a distance.
+The paragraphs will not come out equal. Element 5 is usually the longest, because method needs more room; element 6 is often still a single sentence. Expand each as far as it needs and no further. And don't be afraid to have a single-sentence paragraph. Sometimes, they are the most powerful. 
 
-What you should not do is turn the six into six labelled headings. Under a heading marked
-*Research Question* you can write three hedged sentences and never notice that not one of
-them is a question. Keeping the element as a sentence is what stops that.
+What you should not do is turn the six into six labelled headings. 
 
 ## Before you write: can you measure it?
 
