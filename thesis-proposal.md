@@ -19,7 +19,7 @@ But at least you should have an expectation.
 This is not a section template. You don't have to hand in six labelled headings. But try to start with six sentences first.
 
 
-## A worked example
+## A Worked Example
 
 Take the paper Beck's advice comes from and put it back into proposal form, before the work
 was done:
@@ -57,7 +57,7 @@ that is the whole relationship between the two documents. Notice also that eleme
 runs to two sentences: the method needs room even in the compressed version.
 
 
-## Then expand
+## Then Expand
 
 The six sentences are the skeleton, not the submission. Once they hold, each one becomes the
 first sentence of a paragraph and the rest of that paragraph is support: the evidence behind
@@ -73,7 +73,7 @@ What you should not do is turn the six into six labelled headings.
 If your question involves users "understanding" something, or a tool being "usable", or a process being "improved", try to answer this first: **how would I detect it?** A task-based measure, a validated
 questionnaire, a number in the logs, a coded interview transcript. Give your best estimation of how you'll do this in element five. 
 
-## The title
+## The Ditle
 
 Give the document your working thesis title, not a label like *Preliminary Problem
 Statement*. A title is the shortest form of your claim, so writing one is the same test as
@@ -85,7 +85,7 @@ But make it say something. "Onboarding in Complex Language-Learning Applications
 You'll iterate over it later. 
 
 
-## This document is alive
+## A Live Document
 
 Don't file the proposal away after it's approved. When the work is done, you will rewrite
 sentence 3 from a question into a claim, drop element 5 into the methodology chapter, and
