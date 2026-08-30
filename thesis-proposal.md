@@ -46,27 +46,16 @@ One paragraph. Every element present.
 
 Let us untangle it: 
 
-> **[1 — problem]** Close to nine out of ten papers submitted to OOPSLA are rejected.
->
-> **[2 — why it matters]** Reviewers report that most of those rejections are not caused by
-> weak ideas but by papers whose argument is hard to locate, so good work is lost and the
-> field advances more slowly than it could.
->
-> **[3 — question]** Can a fixed four-step structure for the abstract increase a paper's
-> chance of acceptance?
->
-> **[4 — expectation]** I expect that it can, and substantially, because programme committee
-> members triage on the abstract alone before reading anything else.
->
-> **[5 — method, and what would refute it]** To test this, I will take rejected submissions
-> from previous years, rewrite their abstracts in the four-step form while leaving the body
-> untouched, and ask experienced reviewers to sort original and rewritten versions into
-> accept/reject piles without knowing which is which. If the rewritten abstracts are sorted
-> no differently from the originals, the conjecture fails.
->
-> **[6 — implication]** If they are sorted more favourably, then a mechanical, teachable
-> edit — one that costs an author an hour — is worth more to acceptance than most of what we
-> currently tell students about writing.
+1. **The problem** — nine out of ten submissions are rejected.
+2. **Why it's a problem** — the rejections are caused by structure rather than by weak ideas,
+   so good work is lost.
+3. **The question** — can a fixed four-step abstract raise the acceptance rate?
+4. **The expectation** — yes, substantially, because committees triage on the abstract.
+5. **The method, and what would refute it** — rewrite the abstracts of previously rejected
+   papers, have reviewers sort them blind; identical sorting kills the conjecture.
+6. **The implication** — an hour of mechanical editing would be worth more than most of the
+   writing advice we currently give.
+
 
 Notice that element 3 is a question here and will become a statement in the final abstract —
 that is the whole relationship between the two documents. Notice also that element 5 already
