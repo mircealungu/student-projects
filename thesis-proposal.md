@@ -7,7 +7,7 @@ to say how you plan to answer it.
 So: the same four elements, with two insertions.
 
 1. **The problem.**
-2. **Why the problem is a problem.** -- why should I bother reading this thesis. Why do you bother working on it? 
+2. **Why the problem is a problem.** Convince the reader. Why should they bother reading this thesis. Why will you bother working on it? Why is it important?
 3. **The research question.** (In the abstract this will become a claim. For now it's Kent
    Beck's third sentence, reversed — see the note at the bottom of `thesis-abstract.md`.)
 4. **What you expect the answer to be.** You are allowed to turn out to be wrong. 
