@@ -73,7 +73,7 @@ What you should not do is turn the six into six labelled headings.
 If your question involves users "understanding" something, or a tool being "usable", or a process being "improved", try to answer this first: **how would I detect it?** A task-based measure, a validated
 questionnaire, a number in the logs, a coded interview transcript. Give your best estimation of how you'll do this in element five. 
 
-## The Ditle
+## The Title
 
 Give the document your working thesis title, not a label like *Preliminary Problem
 Statement*. A title is the shortest form of your claim, so writing one is the same test as
