@@ -81,14 +81,6 @@ But make it say something. "Onboarding in Complex Language-Learning Applications
 You'll iterate over it later. 
 
 
-## A Live Document
-
-Don't file the proposal away after it's approved. When the work is done, you will rewrite
-sentence 3 from a question into a claim, drop element 5 into the methodology chapter, and
-what remains is your abstract. If you find at that point that you cannot make the edit, the
-proposal was describing a project other than the one you did — which is worth knowing before
-you start writing the thesis, not after.
-
 
 ---
 
