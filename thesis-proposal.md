@@ -86,6 +86,18 @@ answer this first: **how would I detect it?** A task-based measure, a validated
 questionnaire, a number in the logs, a coded interview transcript. If you cannot name the
 instrument, you do not yet have element 5, and no amount of rewriting will produce it.
 
+## The title
+
+Give the document your working thesis title, not a label like *Preliminary Problem
+Statement*. A title is the shortest form of your claim, so writing one is the same test as
+the six sentences, only faster. And put your name under it. It's your's now :)
+
+It is ok if it is provisional. You will rewrite it when you know how the work turned out. 
+But make it say something. "Onboarding in Complex Language-Learning Applications" names a subject.
+"Does Sequencing Onboarding Around the Learning Loop Improve Feature Adoption?" names the thing you're actually going to find out. Again, give your best effort estimation at the beginning. 
+You'll iterate over it later. 
+
+
 ## This document is alive
 
 Don't file the proposal away after it's approved. When the work is done, you will rewrite
