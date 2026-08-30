@@ -16,12 +16,7 @@ But at least you should have an expectation.
    result would tell you your hypothesis was wrong.
 6. **The implication, if it holds.**
 
-This is not a section template. You don't have to hand in six labelled headings. 
-It's six things your prose has to contain; if a reader can't point at each of them, you're not done.
-
-However, you can write it as six sentences first, fitting in a single paragraph. That is the test: if the
-idea doesn't survive the compression, it isn't there yet, and length will hide the fact
-rather than repair it.
+This is not a section template. You don't have to hand in six labelled headings. But try to start with six sentences first.
 
 
 ## A worked example
