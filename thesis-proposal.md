@@ -1,6 +1,6 @@
 # The Project Proposal: the abstract you can't write yet
 
-A proposal has the same skeleton as [the four-sentence abstract](thesis-abstract.md). The
+A proposal has the same skeleton as  [the famous four-sentence abstract](thesis-abstract.md) by Kent Beck. The
 difference is that the third sentence — the startling one — is still a question, and you have
 to say how you plan to answer it.
 
