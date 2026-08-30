@@ -12,8 +12,9 @@ So: the same four elements, with two insertions.
    Beck's third sentence, reversed — see the note at the bottom of `thesis-abstract.md`.)
 4. **What you expect the answer to be.** You are allowed to turn out to be wrong. 
 But at least you should have an expectation.
-5. **How you will find out.** The method, the data you'll collect, and — crucially — what
-   result would tell you your hypothesis was wrong.
+5. **How you will find out.** The method and the data you'll collect. If the question turns on
+users "understanding" something, or a tool being "usable", ask yourself how you would detect
+it — a task in a lab, a number in the logs, a coded interview. 
 6. **The implication, if it holds.**
 
 This is not a section template. You don't have to hand in six labelled headings. But try to start with six sentences first.
@@ -68,11 +69,6 @@ The paragraphs will not come out equal. Element 5 is usually the longest, becaus
 
 What you should not do is turn the six into six labelled headings. 
 
-## Element 5 - The Method
-
-If your question involves users "understanding" something, or a tool being "usable", or a process being "improved", try to answer this first: **how would I detect it?** A task-based measure, a validated
-questionnaire, a number in the logs, a coded interview transcript. Give your best estimation of how you'll do this in element five. 
-
 ## The Title
 
 Give the document your working thesis title, not a label like *Preliminary Problem
@@ -92,6 +88,7 @@ sentence 3 from a question into a claim, drop element 5 into the methodology cha
 what remains is your abstract. If you find at that point that you cannot make the edit, the
 proposal was describing a project other than the one you did — which is worth knowing before
 you start writing the thesis, not after.
+
 
 ---
 
