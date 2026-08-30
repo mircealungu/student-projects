@@ -1,4 +1,4 @@
-# The Six Sentence Proposal
+# The Six-Sentence Proposal
 
 A proposal has the same skeleton as  [the famous four-sentence abstract](thesis-abstract.md) by Kent Beck. The
 difference is that the third sentence — the startling one — is still a question, and you have
@@ -77,7 +77,7 @@ questionnaire, a number in the logs, a coded interview transcript. Give your bes
 
 Give the document your working thesis title, not a label like *Preliminary Problem
 Statement*. A title is the shortest form of your claim, so writing one is the same test as
-the six sentences, only faster. And put your name under it. It's your's now :)
+the six sentences, only faster. And put your name under it. It's yours now :)
 
 It is ok if it is provisional. You will rewrite it when you know how the work turned out. 
 But make it say something. "Onboarding in Complex Language-Learning Applications" names a subject.
