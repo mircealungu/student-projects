@@ -84,5 +84,5 @@ You'll iterate over it later.
 
 ---
 
-*See also: the Heilmeier Catechism, a longer list of the same questions with more emphasis on
+*See also: the [Heilmeier Catechism](https://www.darpa.mil/about/heilmeier-catechism), a longer list of the same questions with more emphasis on
 risk and on who benefits.*
